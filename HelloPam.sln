@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloPam.BO", "HelloPam.BO\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloPam.DAL", "HelloPam.DAL\HelloPam.DAL.csproj", "{A168BE08-D6B4-4E54-AB8D-6E9C1A562B8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloPam.BLL", "HelloPam.BLL\HelloPam.BLL.csproj", "{A4C2EB41-AEDB-4C04-AFDA-9621DBC589A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A168BE08-D6B4-4E54-AB8D-6E9C1A562B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A168BE08-D6B4-4E54-AB8D-6E9C1A562B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A168BE08-D6B4-4E54-AB8D-6E9C1A562B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C2EB41-AEDB-4C04-AFDA-9621DBC589A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C2EB41-AEDB-4C04-AFDA-9621DBC589A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C2EB41-AEDB-4C04-AFDA-9621DBC589A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C2EB41-AEDB-4C04-AFDA-9621DBC589A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
